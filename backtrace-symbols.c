@@ -49,8 +49,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <execinfo.h>
+#include <config.h>
 #include <bfd.h>
-#include <libiberty/libiberty.h>
+#include <libiberty.h>
 #include <dlfcn.h>
 #include <link.h>
 #if 0
